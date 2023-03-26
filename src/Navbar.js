@@ -19,6 +19,7 @@ export default function Navbar(){
                 <Route path="/about_us" element={<AboutUs/>}/>
                 <Route path="/menu" element={<Menu/>}/>
                 <Route path="/contact" element={<Contact/>}/>
+                        <Route path="*" element={<Contact/>} />
             </Routes>
       </div>
     )
