@@ -1,0 +1,39 @@
+/*Menu*/
+.Card:hover{
+    transform:translateY(-30px);
+    transition: 0.5s;
+}
+
+.cardContainer{
+    width: auto;
+    display: flex;
+    flex-wrap:  wrap;
+    justify-content: space-evenly;
+    gap:50px;
+}
+
+#cardDescription, #cardTitle, #price, #cardContent{
+    background-color: #C19051;
+}
+
+#cardContent{
+    height: 120px;
+}
+
+.Card{
+    margin-bottom: 50px;
+}
+
+#cardTitle{
+    text-align: center;
+}
+
+#cardDescription{
+    text-align: center;
+}
+
+#price{
+    justify-content: center;
+    font-size: 23px;
+    color: black;
+}

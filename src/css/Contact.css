@@ -1,0 +1,17 @@
+/*contact us field*/
+.contact{
+    text-align: center;
+}
+.Form{
+    height: 55vh;
+    max-height: 53vh;
+    display: inline-block;
+}
+fieldset{
+    /*margin: 0 30vw 0 30vw;*/
+    display: flex;
+    flex-direction: column;
+}
+.Field{
+    margin:10px 0 0 0;
+}

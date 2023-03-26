@@ -1,0 +1,75 @@
+/*homepage*/
+.article, .articleContent>p, .articleContent>h1, .articleContent, .articlePhoto{
+    background-color: #C19051
+}
+
+.homepage{
+    height: 55vh;
+    max-height: 53vh;
+}
+
+.ad{
+    height: 87vh;
+    display: flex;
+    margin-top: -30px;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+#background{
+    width: 100%;
+    height: 87vh;
+    opacity: 90%;
+    z-index: 1;
+    position: absolute;
+}
+
+.video{
+    z-index: 2;
+    align-self: center;
+    border-radius: 30px;
+    overflow: hidden;
+}   
+
+#manhattanStar{
+    display: flex;
+    width: 400px;
+    height: 253px;
+    justify-self: center;
+    margin: 5px 0 5px 5px;
+}
+#invitePhoto{
+    width: 400px;
+    height: 253px;
+    margin: 5px 5px 5px 0;
+}
+
+.article{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+    border-radius: 5px;
+}
+
+.articlePhoto{
+    border-radius: 5px;
+}
+
+.articleContent{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.articleContent>h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: large;
+}
+
+.articleContent>p{
+    text-align: center;
+    font-style:normal;
+}

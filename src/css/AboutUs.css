@@ -1,0 +1,31 @@
+/*About us*/
+.dupa, #cardPhotoAbout, #cardDescriptionAbout, #cardTitleAbout, #cardContentAbout{
+    background-color: #C19051;
+}
+
+.CardAbout{
+    display: flex;
+    flex-wrap:  wrap;
+    justify-content: center;
+}
+
+.cardAboutx{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+#cardPhotoAbout{
+    align-self: center;
+    margin-left: 10px;
+}
+#cardTitleAbout{
+    margin-bottom: 5px;
+}
+#cardContentAbout{
+    text-align: center;
+}
+
+.about{
+    height: 50vh;
+    max-height: 53vh;
+}
