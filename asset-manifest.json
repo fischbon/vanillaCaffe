@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/vanillaCaffe/static/css/main.ff0a03ae.css",
+    "main.js": "/vanillaCaffe/static/js/main.de09edba.js",
+    "static/js/787.25ea2f60.chunk.js": "/vanillaCaffe/static/js/787.25ea2f60.chunk.js",
+    "static/media/ad.mp4": "/vanillaCaffe/static/media/ad.4724709fce9e3fa9af33.mp4",
+    "static/media/choco.jpg": "/vanillaCaffe/static/media/choco.d407d3cb3619d5b571dc.jpg",
+    "static/media/tea.jpg": "/vanillaCaffe/static/media/tea.0c3e81d9827fa165a841.jpg",
+    "static/media/twoCoffe.jpg": "/vanillaCaffe/static/media/twoCoffe.4b7f2b53875055dead47.jpg",
+    "static/media/latte.jpg": "/vanillaCaffe/static/media/latte.d7cfe08ce3b98706bdbb.jpg",
+    "static/media/matcha.jpg": "/vanillaCaffe/static/media/matcha.7c0f179700d96c1be0c0.jpg",
+    "static/media/profile.jpg": "/vanillaCaffe/static/media/profile.b84d8ef8ca45fa6cdfbd.jpg",
+    "static/media/Paulina.jpg": "/vanillaCaffe/static/media/Paulina.cadff3a8409aca96ea68.jpg",
+    "static/media/mocha.jpg": "/vanillaCaffe/static/media/mocha.1ec87ce3a007e57fbbf8.jpg",
+    "static/media/background.jpg": "/vanillaCaffe/static/media/background.8ae280e843f4b650ad39.jpg",
+    "static/media/manhattan-star.jpeg": "/vanillaCaffe/static/media/manhattan-star.001772dd53ccc0d9d583.jpeg",
+    "static/media/manhattan_star.jpg": "/vanillaCaffe/static/media/manhattan_star.f9633a8205786ff9a0c9.jpg",
+    "static/media/logo.png": "/vanillaCaffe/static/media/logo.7e133009093bfd680c8c.png",
+    "static/media/logo_noTxt.png": "/vanillaCaffe/static/media/logo_noTxt.ca1ac8b80cd991666702.png",
+    "index.html": "/vanillaCaffe/index.html",
+    "main.ff0a03ae.css.map": "/vanillaCaffe/static/css/main.ff0a03ae.css.map",
+    "main.de09edba.js.map": "/vanillaCaffe/static/js/main.de09edba.js.map",
+    "787.25ea2f60.chunk.js.map": "/vanillaCaffe/static/js/787.25ea2f60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0a03ae.css",
+    "static/js/main.de09edba.js"
+  ]
+}
